@@ -1,0 +1,45 @@
+Departure Time,Departure Airport,Duration,Arrival Time,Arrival Airport,Airlines,Class,Plan Type,ID,Capacity
+2:00 PM,Los Angeles International Airport LAX,Travel time: 5h 18m,10:18 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 32,185
+12:00 PM,Los Angeles International Airport LAX,Travel time: 5h 24m,8:24 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 274,185
+10:05 AM,Los Angeles International Airport LAX,Travel time: 1h 27m,12:32 PM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1702,185
+4:33 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 39m,11:12 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 1388,180
+7:22 AM,Los Angeles International Airport LAX,Travel time: 1h 33m,9:55 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1662,185
+4:33 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 39m,11:12 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 1388,180
+7:00 AM,Los Angeles International Airport LAX,Travel time: 1h 35m,8:35 AM,San Francisco International Airport SFO,Delta,Economy,Boeing 737,DL 2313,180
+1:17 PM,San Francisco International Airport SFO,Travel time: 5h 29m,9:46 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 757,DL 592,230
+6:00 AM,Los Angeles International Airport LAX,Travel time: 1h 28m,8:28 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 2027,185
+4:33 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 39m,11:12 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 1388,180
+11:25 AM,Los Angeles International Airport LAX,Travel time: 5h 29m,7:54 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 2787,240
+6:40 AM,Los Angeles International Airport LAX,Travel time: 1h 35m,8:15 AM,San Francisco International Airport SFO,American,Economy,Boeing 737,AA 2891,180
+11:46 AM,San Francisco International Airport SFO,Travel time: 2h 9m,2:55 PM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1880,185
+4:33 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 39m,11:12 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 1388,180
+6:40 AM,Los Angeles International Airport LAX,Travel time: 1h 35m,8:15 AM,San Francisco International Airport SFO,American,Economy,Boeing 737,AA 2891,180
+8:47 AM,San Francisco International Airport SFO,Travel time: 2h 7m,11:54 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1868,185
+1:41 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 48m,8:29 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321,AA 2434,185
+10:05 AM,Los Angeles International Airport LAX,Travel time: 1h 27m,12:32 PM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1702,185
+1:41 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 48m,8:29 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321,AA 2434,185
+2:15 PM,Los Angeles International Airport LAX,Travel time: 5h 16m,10:31 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 2262,240
+12:40 PM,Los Angeles International Airport LAX,Travel time: 5h 22m,9:02 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 468,240
+10:40 AM,Los Angeles International Airport LAX,Travel time: 4h 10m,4:50 PM,O'Hare International Airport ORD,United,Economy,Boeing 737,UA 613,180
+6:52 PM,O'Hare International Airport ORD,Travel time: 2h 30m,10:22 PM,John F. Kennedy International Airport JFK,Delta,Economy,Canadair RJ 900,DL 5223,75
+7:00 AM,Los Angeles International Airport LAX,Travel time: 4h 1m,1:01 PM,O'Hare International Airport ORD,United,Economy,Boeing 757,UA 2265,230
+3:09 PM,O'Hare International Airport ORD,Travel time: 2h 26m,6:35 PM,John F. Kennedy International Airport JFK,Delta,Economy,Canadair RJ 900,DL 4760,75
+12:30 AM,Los Angeles International Airport LAX,Travel time: 5h 18m,8:48 AM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 292,185
+1:20 AM,Los Angeles International Airport LAX,Travel time: 4h 4m,7:24 AM,O'Hare International Airport ORD,American,Economy,Airbus A321,AA 362,185
+11:44 AM,O'Hare International Airport ORD,Travel time: 2h 13m,2:57 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 272,180
+10:00 AM,Los Angeles International Airport LAX,Travel time: 5h 23m,6:23 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 238,185
+7:00 AM,Los Angeles International Airport LAX,Travel time: 5h 18m,3:18 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 118,185
+7:55 AM,Los Angeles International Airport LAX,Travel time: 5h 17m,4:12 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 1258,240
+7:22 AM,Los Angeles International Airport LAX,Travel time: 1h 33m,9:55 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1662,185
+1:41 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 48m,8:29 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321,AA 2434,185
+11:00 AM,Los Angeles International Airport LAX,Travel time: 5h 25m,7:25 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321 (Sharklets),AA 4,185
+9:25 AM,Los Angeles International Airport LAX,Travel time: 5h 25m,5:50 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 2164,240
+6:05 AM,Los Angeles International Airport LAX,Travel time: 5h 18m,2:23 PM,John F. Kennedy International Airport JFK,Delta,Economy,Boeing 767,DL 1436,240
+7:22 AM,Los Angeles International Airport LAX,Travel time: 1h 33m,9:55 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1662,185
+12:18 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 42m,7:00 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321,AA 2768,185
+7:22 AM,Los Angeles International Airport LAX,Travel time: 1h 33m,9:55 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 1662,185
+10:50 AM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 39m,5:29 PM,John F. Kennedy International Airport JFK,American,Economy,Boeing 737,AA 2339,180
+6:00 AM,Los Angeles International Airport LAX,Travel time: 1h 28m,8:28 AM,Phoenix Sky Harbor International Airport PHX,American,Economy,Airbus A321,AA 2027,185
+12:18 PM,Phoenix Sky Harbor International Airport PHX,Travel time: 4h 42m,7:00 PM,John F. Kennedy International Airport JFK,American,Economy,Airbus A321,AA 2768,185
+,,,,,,,,,
+,,,,,,,,,
